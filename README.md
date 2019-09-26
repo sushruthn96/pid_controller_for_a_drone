@@ -6,4 +6,4 @@
 
 * key_handling.py - Has the tuned PID code. Only Pitch and Roll axes are tuned keeping the yaw axis constant. 
 * key_commands.py - 
-* data_via_rosservice.py - 
+* data_via_rosservice.py - Communicates with the pluto drone to get the sensor values for determining its x,y,z positions.
